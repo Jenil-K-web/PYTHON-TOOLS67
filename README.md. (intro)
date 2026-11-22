@@ -1,0 +1,41 @@
+PYTHON DEVELOPER TOOLKIT
+
+A collection of free, simple, and useful tools designed to make developers' lives easier.
+
+ABOUT THIS PROJECT
+
+Python Developer Toolkit is an open-source project that brings together practical tools for developers, students, and programmers.
+
+AVAILABLE TOOLS
+
+Coming soon!
+
+- JSON Formatter
+- CSV Analyzer
+- Regex Tester
+- Password Generator
+- Text Comparer
+- URL Encoder & Decoder
+- Base64 Encoder & Decoder
+- Python Code Formatter
+- CSV Viewer
+
+TECHNOLOGIES USED
+
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+PROJECT GOAL
+
+To create a collection of free, accessible, and easy-to-use developer tools.
+
+CONTRIBUTIONS
+
+Contributions and suggestions are welcome!
+
+LICENSE
+
+MIT License
